@@ -12,7 +12,7 @@ using Newtonsoft.Json.Converters;
 //    using Cinema;
 //
 //    var cinemaLocation = CinemaLocation.FromJson(jsonString);
-namespace Kinoman.Core.CinemaID
+namespace Kinoman.Core
 {
     using System;
     using Newtonsoft.Json;

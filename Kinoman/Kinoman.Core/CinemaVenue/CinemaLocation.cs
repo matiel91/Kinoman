@@ -3,10 +3,10 @@
 //    using Cinema;
 //
 //    var cinemaLocation = CinemaLocation.FromJson(jsonString);
-namespace Kinoman.Core.CinemaID
+using System.Collections.Generic;
+using Newtonsoft.Json;
+namespace Kinoman.Core
 {
-    using System.Collections.Generic;
-    using Newtonsoft.Json;
 
     public partial class CinemaLocation
     {

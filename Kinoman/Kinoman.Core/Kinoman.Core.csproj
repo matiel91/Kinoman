@@ -43,10 +43,47 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FilmData\Other_Properties\Categories.cs" />
+    <Compile Include="FilmData\Other_Properties\CategoriesName.cs" />
+    <Compile Include="FilmData\Enums\DateDay.cs" />
+    <Compile Include="FilmData\Enums\DatePrefix.cs" />
+    <Compile Include="FilmData\Enums\CertImage.cs" />
+    <Compile Include="FilmData\Enums\Class.cs" />
+    <Compile Include="FilmData\Converters\ClassConverter.cs" />
+    <Compile Include="FilmData\Converters\CertImageConverter.cs" />
+    <Compile Include="FilmData\Cinema.cs" />
+    <Compile Include="FilmData\Converters\Converter.cs" />
+    <Compile Include="FilmData\Converters\DatePrefixConverter.cs" />
+    <Compile Include="FilmData\Converters\DateDayConverter.cs" />
+    <Compile Include="FilmData\Film.cs" />
+    <Compile Include="FilmData\Converters\FullnameConverter.cs" />
+    <Compile Include="FilmData\Converters\TagNameConverter.cs" />
+    <Compile Include="FilmData\Converters\TypeEnumConverter.cs" />
+    <Compile Include="FilmData\Converters\ImageHeroConverter.cs" />
+    <Compile Include="FilmData\Converters\InfoAgeConverter.cs" />
+    <Compile Include="FilmData\Converters\ScreenTypeConverter.cs" />
+    <Compile Include="FilmData\Converters\PositionConverter.cs" />
+    <Compile Include="FilmData\Converters\ShowingTypeNameConverter.cs" />
+    <Compile Include="FilmData\Enums\ImageHero.cs" />
+    <Compile Include="FilmData\Enums\InfoAge.cs" />
+    <Compile Include="FilmData\Enums\Position.cs" />
+    <Compile Include="FilmData\Enums\Fullname.cs" />
+    <Compile Include="FilmData\Enums\ScreenType.cs" />
+    <Compile Include="FilmData\Enums\ShowingTypeName.cs" />
+    <Compile Include="FilmData\Enums\TagName.cs" />
+    <Compile Include="FilmData\Enums\TypeEnum.cs" />
+    <Compile Include="FilmData\Other_Properties\PromoLabels.cs" />
+    <Compile Include="FilmData\Other_Properties\PromoLabelsName.cs" />
+    <Compile Include="FilmData\Serializer\Serialize.cs" />
+    <Compile Include="FilmData\Other_Properties\Showing.cs" />
+    <Compile Include="FilmData\Other_Properties\ShowingType.cs" />
+    <Compile Include="FilmData\Other_Properties\Tag.cs" />
+    <Compile Include="FilmData\Other_Properties\Time.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

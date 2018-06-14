@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinoman", "Kinoman\Kinoman.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinoman.Core", "Kinoman.Core\Kinoman.Core.csproj", "{22D60C83-A592-4492-83A9-8D8887262ED9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinoman.Tests", "Kinoman.Tests\Kinoman.Tests.csproj", "{78F49DFC-BF31-4546-8C93-FB6D96D59C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{22D60C83-A592-4492-83A9-8D8887262ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22D60C83-A592-4492-83A9-8D8887262ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22D60C83-A592-4492-83A9-8D8887262ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F49DFC-BF31-4546-8C93-FB6D96D59C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F49DFC-BF31-4546-8C93-FB6D96D59C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F49DFC-BF31-4546-8C93-FB6D96D59C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F49DFC-BF31-4546-8C93-FB6D96D59C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

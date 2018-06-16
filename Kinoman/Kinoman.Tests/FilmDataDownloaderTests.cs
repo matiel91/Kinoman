@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using Kinoman.Core;
 namespace Kinoman.Tests
 {
     [TestFixture]
@@ -40,10 +41,12 @@ namespace Kinoman.Tests
         {
             //Arrange
             var cut = new FilmDataDownloader();
-            var idDownloader = new CinemaIdDownloader();
+            CinemaIdDownloader idDownloader = new CinemaIdDownloader();
             //Act
+            int id = idDownloader.GetId(location);
+
             //Assert
-            Assert.DoesNotThrow(cut.Get(idDownloader));
+            Assert.DoesNotThrow(() => cut.Get(id)); //delegat??
         }
         [TestCase(39)]
         [TestCase(5)]

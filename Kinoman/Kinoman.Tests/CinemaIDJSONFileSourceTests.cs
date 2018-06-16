@@ -8,7 +8,7 @@ namespace Kinoman.Tests
     public class CinemaIDJSONFileSourceTests
     {
         [Test]
-        public void isNotNullWhenIsGetFromFile()
+        public void IsNotNullWhenIsGetFromFile()
         {
             //Arrange
             var cut = new CinemaIdJSONFileSource();
@@ -29,7 +29,7 @@ namespace Kinoman.Tests
         [TestCase("Kielce", 33)]
         [TestCase("Warszawa Wola Park", 15)]
         [TestCase("Zabrze", 20)]
-        public void isGetProperID(string location, int properId)
+        public void IsGetProperID(string location, int properId)
         {
             //Arrange
             var cut = new CinemaIdDownloader();

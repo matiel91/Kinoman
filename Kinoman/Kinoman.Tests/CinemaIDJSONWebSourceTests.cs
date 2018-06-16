@@ -12,7 +12,7 @@ namespace Kinoman.Tests
     public class CinemaIDJSONWebSourceTests
     {
         [Test]
-        public void isNotNullWhenIsGetFromWeb()
+        public void IsNotNullWhenIsGetFromWeb()
         {
             //Arrange
             var cut = new CinemaIdJSONWebSource();            

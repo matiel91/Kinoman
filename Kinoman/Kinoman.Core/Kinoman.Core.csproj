@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CinemaIdDownloader.cs" />
+    <Compile Include="CinemaIdJSONFileSource.cs" />
     <Compile Include="CinemaVenue\Cinema.cs" />
     <Compile Include="CinemaVenue\CinemaLocation.cs" />
     <Compile Include="CinemaVenue\Converters\Converter.cs" />
@@ -88,6 +90,7 @@
     <Compile Include="FilmData\Other_Properties\ShowingType.cs" />
     <Compile Include="FilmData\Other_Properties\Tag.cs" />
     <Compile Include="FilmData\Other_Properties\Time.cs" />
+    <Compile Include="CinemaVenue\Interfaces\IJsonDataSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

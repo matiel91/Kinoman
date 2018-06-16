@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Kinoman.Core;
+using NUnit.Framework;
 namespace Kinoman.Tests
 {
 

@@ -10,7 +10,7 @@ using Newtonsoft.Json.Converters;
 
 namespace Kinoman.Core
 {
-    internal static class Converter
+    internal static class ConverterFilmData
     {
         public static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
         {

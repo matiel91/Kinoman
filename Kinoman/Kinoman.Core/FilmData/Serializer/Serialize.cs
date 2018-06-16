@@ -8,9 +8,9 @@
 
 namespace Kinoman.Core
 {
-    public static class Serialize
+    public static class SerializeFilmData
     {
-        public static string ToJson(this Cinema self) => JsonConvert.SerializeObject(self, Converter.Settings);// -Cinema.Converter.Setting
+        public static string ToJson(this Cinema self) => JsonConvert.SerializeObject(self, ConverterFilmData.Settings);// -Cinema.Converter.Setting
     }
 }
 

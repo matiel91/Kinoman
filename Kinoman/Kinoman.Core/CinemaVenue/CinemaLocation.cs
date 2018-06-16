@@ -10,7 +10,7 @@ namespace Kinoman.Core
 
     public partial class CinemaLocation
     {
-        public static CinemaLocation FromJson(string json) => JsonConvert.DeserializeObject<CinemaLocation>(json, Converter.Settings);
+        public static CinemaLocation FromJson(string json) => JsonConvert.DeserializeObject<CinemaLocation>(json, ConverterCinemaVenue.Settings);
 
         [JsonProperty("favourites")]
         public List<object> Favourites { get; set; }

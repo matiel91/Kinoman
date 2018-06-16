@@ -11,7 +11,7 @@ namespace Kinoman.Core
 {
     public partial class Cinema
     {
-        public static Cinema FromJson(string json) => JsonConvert.DeserializeObject<Cinema>(json, Converter.Settings);// -Cinema.Converter.Setting
+        public static Cinema FromJson(string json) => JsonConvert.DeserializeObject<Cinema>(json, ConverterFilmData.Settings);// -Cinema.Converter.Setting
 
         [JsonProperty("films")]
         public List<Film> Films { get; set; }

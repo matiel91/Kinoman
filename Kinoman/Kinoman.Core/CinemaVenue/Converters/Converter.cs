@@ -3,14 +3,13 @@
 //    using Cinema;
 //
 //    var cinemaLocation = CinemaLocation.FromJson(jsonString);
+using System.Globalization;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 namespace Kinoman.Core
 {
 
-    using System.Globalization;
-    using Newtonsoft.Json;
-    using Newtonsoft.Json.Converters;
-
-    internal static class Converter
+    internal static class ConverterCinemaVenue
     {
         public static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
         {

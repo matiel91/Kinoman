@@ -3,13 +3,14 @@
 //    using Cinema;
 //
 //    var cinemaLocation = CinemaLocation.FromJson(jsonString);
+//CinemaVenue
 namespace Kinoman.Core
 {
     using Newtonsoft.Json;
 
-    public static class Serialize
+    public static class SerializeCinemaVenue
     {
-        public static string ToJson(this CinemaLocation self) => JsonConvert.SerializeObject(self, Converter.Settings);
+        public static string ToJson(this CinemaLocation self) => JsonConvert.SerializeObject(self, ConverterCinemaVenue.Settings);
     }
 }
 

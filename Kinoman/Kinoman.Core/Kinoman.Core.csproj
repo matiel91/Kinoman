@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CinemaIdDownloader.cs" />
     <Compile Include="CinemaIdJSONFileSource.cs" />
+    <Compile Include="CinemaIdJSONWebSource.cs" />
     <Compile Include="CinemaVenue\Cinema.cs" />
     <Compile Include="CinemaVenue\CinemaLocation.cs" />
     <Compile Include="CinemaVenue\Converters\Converter.cs" />
@@ -54,6 +55,7 @@
     <Compile Include="CinemaVenue\Venue.cs" />
     <Compile Include="CinemaVenue\Enums\Vr.cs" />
     <Compile Include="CinemaVenue\Converters\VrConverter.cs" />
+    <Compile Include="FilmDataDownloader.cs" />
     <Compile Include="FilmData\Other_Properties\Categories.cs" />
     <Compile Include="FilmData\Other_Properties\CategoriesName.cs" />
     <Compile Include="FilmData\Enums\DateDay.cs" />

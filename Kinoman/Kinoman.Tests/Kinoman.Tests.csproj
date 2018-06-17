@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CinemaIdDonwloaderTests.cs" />
     <Compile Include="CinemaIDJSONFileSourceTests.cs" />
     <Compile Include="CinemaIDJSONWebSourceTests.cs" />
     <Compile Include="FilmDataDownloaderTests.cs" />
@@ -58,7 +59,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="TestFiles\CinemaIDJson.txt">
+    <None Include="TestFiles\CinemaIDJson.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="TestFiles\cinema_2.txt">

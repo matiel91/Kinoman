@@ -17,7 +17,6 @@ namespace Kinoman.Core
 
         public int GetId(string location)
         {
-            string idResult = "0";
             List<Cinema> cinemaList = new List<Cinema>();
             foreach (var item in Venue.Venues)
             {

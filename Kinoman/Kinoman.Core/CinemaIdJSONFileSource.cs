@@ -17,6 +17,7 @@ namespace Kinoman.Core
             var data = CinemaLocation.FromJson(json);
             return data;
             
+            
         }
     }
 }

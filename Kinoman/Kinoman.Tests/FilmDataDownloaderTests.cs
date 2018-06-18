@@ -41,7 +41,8 @@ namespace Kinoman.Tests
         {
             //Arrange
             var cut = new FilmDataDownloader();
-            CinemaIdDownloader idDownloader = new CinemaIdDownloader();
+            var parsedJson = new CinemaIdJSONFileSource();
+            CinemaIdDownloader idDownloader = new CinemaIdDownloader(parsedJson.GetJson());
             //Act
             int id = idDownloader.GetId(location);
 

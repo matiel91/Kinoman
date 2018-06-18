@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Kinoman.Core
 {
-    public class CinemaIdJSONWebSource
+    public class CinemaIdJSONWebSource : IJsonDataSource
     {
-        public object GetJson()
+        public CinemaLocation GetJson()
         {
             throw new NotImplementedException();
         }

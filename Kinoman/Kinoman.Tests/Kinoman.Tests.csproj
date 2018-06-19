@@ -63,13 +63,13 @@
     <None Include="TestFiles\CinemaIDJson.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="TestFiles\cinema_2.txt">
+    <None Include="TestFiles\cinema_2.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="TestFiles\cinema_20.txt">
+    <None Include="TestFiles\cinema_20.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="TestFiles\cinema_5.txt">
+    <None Include="TestFiles\cinema_5.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

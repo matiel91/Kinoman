@@ -3,7 +3,7 @@ using Kinoman.Core;
 namespace Kinoman.Tests
 {
     [TestFixture]
-    public class FilmDataDownloaderTests
+    public partial class FilmDataDownloaderWebSourceTests
     {
         [TestCase("Bydgoszcz")]
         [TestCase("Czechowice - Dziedzice")]
@@ -40,7 +40,7 @@ namespace Kinoman.Tests
         public void DoesNotThrowAnyException(string location)
         {
             //Arrange
-            var cut = new FilmDataDownloader();
+            var cut = new FilmDataDownloaderWebSource();
             var parsedJson = new CinemaIdJSONFileSource();
             CinemaIdDownloader idDownloader = new CinemaIdDownloader(parsedJson.GetJson());
             //Act
@@ -56,7 +56,7 @@ namespace Kinoman.Tests
         public void IsNotNull(int cinemaId)
         {
             //Arrange
-            var cut = new FilmDataDownloader();
+            var cut = new FilmDataDownloaderWebSource();
             //Act
             var result = cut.Get(cinemaId);
             //Assert

@@ -46,7 +46,8 @@
     <Compile Include="CinemaIdDonwloaderTests.cs" />
     <Compile Include="CinemaIDJSONFileSourceTests.cs" />
     <Compile Include="CinemaIDJSONWebSourceTests.cs" />
-    <Compile Include="FilmDataDownloaderTests.cs" />
+    <Compile Include="FilmDataDownloaderFileSourceTests.cs" />
+    <Compile Include="FilmDataDownloaderWebSourceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

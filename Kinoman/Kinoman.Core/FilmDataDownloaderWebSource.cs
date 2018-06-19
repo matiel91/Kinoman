@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kinoman.Core
 {
-    public class FilmDataDownloader
+    public class FilmDataDownloaderWebSource
     {
         public Cinema Get(int cinemaId)
         {

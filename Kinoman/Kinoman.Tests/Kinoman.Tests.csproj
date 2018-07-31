@@ -60,9 +60,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="TestFiles\CinemaIDJson.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <None Include="TestFiles\CinemaIDJson.json" />
     <None Include="TestFiles\cinema_2.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

@@ -13,8 +13,9 @@ namespace Kinoman.Core
     {
         public CinemaLocation GetJson()
         {
-
-            var json = File.ReadAllText(@"C:\WORK SPACE\Projekty\Kinoman\Kinoman\Kinoman.Tests\TestFiles\CinemaIDJson.json", Encoding.Default).ToString();
+            string path2 = new DirectoryInfo(Environment.CurrentDirectory).Parent.Parent.Parent.FullName; // Path to Project Directory
+            string path = Path.Combine(path2, @"Kinoman.Tests\TestFiles\CinemaIDJson.json");//Path to file directory in project directory
+            var json = File.ReadAllText(path, Encoding.Default).ToString();
             Console.WriteLine(json);
             var data = CinemaLocation.FromJson(json);
             return data;

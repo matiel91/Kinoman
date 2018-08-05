@@ -33,6 +33,8 @@ namespace Kinoman.Core
                     return DateDay.Wtorek;
                 case "środa":
                     return DateDay.Środa;
+                default: return DateDay.Unknown;
+                        
             }
             throw new Exception("Cannot unmarshal type DateDay");
         }

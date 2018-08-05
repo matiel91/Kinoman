@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum DateDay { Czwartek, Niedziela, Piątek, Poniedziałek, Sobota, Wtorek, Środa };
+    public enum DateDay { Czwartek, Niedziela, Piątek, Poniedziałek, Sobota, Wtorek, Środa, Unknown };
 }
 

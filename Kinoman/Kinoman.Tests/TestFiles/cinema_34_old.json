@@ -1,0 +1,3347 @@
+{
+  "films": [    
+    {
+      "original_s_count": 5,
+      "sortable": 4,
+      "showings": [
+        {
+          "date_prefix": "Jutro",
+          "date_day": "niedziela",
+          "date_short": "N 05.08",
+          "date_long": "niedziela 05 sierpnia",
+          "date_time": "2018-08-05",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 05  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439433",
+              "version_id": "2",
+              "time": "13:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T13:05:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439436",
+              "version_id": "15",
+              "time": "15:40",
+              "screen_type": "3D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "3D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T15:40:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439439",
+              "version_id": "2",
+              "time": "18:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T18:15:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439441",
+              "version_id": "1",
+              "time": "20:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T20:50:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-05T13:05:00",
+          "cdate": "2018-08-04T22:22:36.761279+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 06.08",
+          "date_long": "poniedziałek 06 sierpnia",
+          "date_time": "2018-08-06",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 06  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439446",
+              "version_id": "2",
+              "time": "13:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T13:05:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439449",
+              "version_id": "15",
+              "time": "15:40",
+              "screen_type": "3D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "3D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T15:40:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439452",
+              "version_id": "2",
+              "time": "18:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T18:15:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439455",
+              "version_id": "1",
+              "time": "20:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T20:50:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-06T13:05:00",
+          "cdate": "2018-08-04T22:22:36.761279+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 07.08",
+          "date_long": "wtorek 07 sierpnia",
+          "date_time": "2018-08-07",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 07  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439461",
+              "version_id": "2",
+              "time": "13:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T13:05:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439464",
+              "version_id": "15",
+              "time": "15:40",
+              "screen_type": "3D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "3D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T15:40:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439467",
+              "version_id": "2",
+              "time": "18:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T18:15:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439470",
+              "version_id": "1",
+              "time": "20:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T20:50:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-07T13:05:00",
+          "cdate": "2018-08-04T22:22:36.761279+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 08.08",
+          "date_long": "środa 08 sierpnia",
+          "date_time": "2018-08-08",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 08  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439476",
+              "version_id": "2",
+              "time": "13:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T13:05:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439479",
+              "version_id": "15",
+              "time": "15:40",
+              "screen_type": "3D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "3D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T15:40:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439482",
+              "version_id": "2",
+              "time": "18:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T18:15:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439485",
+              "version_id": "1",
+              "time": "20:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T20:50:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-08T13:05:00",
+          "cdate": "2018-08-04T22:22:36.761279+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 09.08",
+          "date_long": "czwartek 09 sierpnia",
+          "date_time": "2018-08-09",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 09  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439491",
+              "version_id": "2",
+              "time": "13:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T13:05:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439494",
+              "version_id": "15",
+              "time": "15:40",
+              "screen_type": "3D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "3D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T15:40:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439497",
+              "version_id": "2",
+              "time": "18:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T18:15:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439500",
+              "version_id": "1",
+              "time": "20:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T20:50:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-09T13:05:00",
+          "cdate": "2018-08-04T22:22:36.761279+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "ant-man-and-the-wasp",
+      "title": "Ant-Man i Osa",
+      "id": "6891",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/QkJEMzJG/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/ant-man-i-osa-pl_04f3a9f208.jpg",
+      "cert_image": "/-/media/images/certificates/12.png",
+      "cert_desc": null,
+      "synopsis_short": "Po wydarzeniach przedstawionych w filmie „Kapitan Ameryka: Wojna Bohaterów” Scott Lang aka Ant-Man boryka się z konsekwencjami swoich życiowych wyborów tak w roli superbohatera, jak i ojca.",
+      "info_release": "03.08.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "117 minut",
+      "info_age": "12",
+      "pegi_class": "",
+      "info_director": "Peyton Reed",
+      "info_cast": null,
+      "availablecopy": "REZERWUJ / KUP BILET",
+      "videolink": "/filmy/ant-man-i-osa/trailer",
+      "filmlink": "/filmy/ant-man-i-osa",
+      "timeslink": "/filmy/ant-man-i-osa/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": false,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Akcja",
+            "url": "/gatunki/akcja",
+            "highlighted": false
+          },
+          {
+            "name": "Science-Fiction",
+            "url": "/gatunki/science-fiction",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "65",
+      "rank_value": "8.51",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "SUPERHIT",
+            "class": "promo-label--hit",
+            "short_name": "SUPERHIT"
+          },
+          {
+            "name": "PREMIERA",
+            "class": "promo-label--promo",
+            "short_name": "PREMIERA"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-08-03T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>3404</span> osoby chcą zobaczyć",
+      "showwantsee": false,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6891",
+      "always_in_QB": false,
+      "priority_value": 100
+    },    
+    {
+      "original_s_count": 5,
+      "sortable": 0,
+      "showings": [
+        {
+          "date_prefix": "Jutro",
+          "date_day": "niedziela",
+          "date_short": "N 05.08",
+          "date_long": "niedziela 05 sierpnia",
+          "date_time": "2018-08-05",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 05  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439428",
+              "version_id": "2",
+              "time": "10:10",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T10:10:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439434",
+              "version_id": "2",
+              "time": "14:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T14:50:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-05T10:10:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 06.08",
+          "date_long": "poniedziałek 06 sierpnia",
+          "date_time": "2018-08-06",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 06  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439444",
+              "version_id": "2",
+              "time": "11:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T11:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439450",
+              "version_id": "2",
+              "time": "16:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T16:15:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-06T11:20:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 07.08",
+          "date_long": "wtorek 07 sierpnia",
+          "date_time": "2018-08-07",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 07  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439459",
+              "version_id": "2",
+              "time": "11:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T11:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439465",
+              "version_id": "2",
+              "time": "16:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T16:15:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-07T11:20:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 08.08",
+          "date_long": "środa 08 sierpnia",
+          "date_time": "2018-08-08",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 08  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439474",
+              "version_id": "2",
+              "time": "11:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T11:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439480",
+              "version_id": "2",
+              "time": "16:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T16:15:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-08T11:20:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 09.08",
+          "date_long": "czwartek 09 sierpnia",
+          "date_time": "2018-08-09",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 09  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439489",
+              "version_id": "2",
+              "time": "11:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T11:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439495",
+              "version_id": "2",
+              "time": "16:15",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T16:15:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-09T11:20:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "iniemamocni-2",
+      "title": "Iniemamocni 2",
+      "id": "6873",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/ODZDOEVC/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/iniemamocni2-pl2_fa0d5be231.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "W rodzinie Iniemamocnych przyszła kolej na zmiany! Podczas gdy Helen rozwija swoją karierę zawodową, jej mąż Bob zostaje w domu z dziećmi realizując się w zaciszu domowych pieleszy. Ta nowa sytuacja jest trudna dla wszystkich, a pączkujące nadprzyrodzone zdolności małego Jack-Jacka nie czynią jej łatwiejszą.",
+      "info_release": "13.07.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "126 minut",
+      "info_age": "b.o.",
+      "pegi_class": "",
+      "info_director": "Brad Bird",
+      "info_cast": null,
+      "availablecopy": "REZERWUJ / KUP BILET",
+      "videolink": "/filmy/iniemamocni-2/trailer",
+      "filmlink": "/filmy/iniemamocni-2",
+      "timeslink": "/filmy/iniemamocni-2/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": false,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Animowany",
+            "url": "/gatunki/animowany",
+            "highlighted": false
+          },
+          {
+            "name": "Familijny",
+            "url": "/gatunki/familijny",
+            "highlighted": true
+          },
+          {
+            "name": "Komedia",
+            "url": "/gatunki/komedia",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "500",
+      "rank_value": "7.79",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "SUPERHIT",
+            "class": "promo-label--hit",
+            "short_name": "SUPERHIT"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-07-13T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>4984</span> osoby chcą zobaczyć",
+      "showwantsee": false,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6873",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 5,
+      "sortable": 5,
+      "showings": [
+        {
+          "date_prefix": "Jutro",
+          "date_day": "niedziela",
+          "date_short": "N 05.08",
+          "date_long": "niedziela 05 sierpnia",
+          "date_time": "2018-08-05",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 05  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439429",
+              "version_id": "2",
+              "time": "10:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T10:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439431",
+              "version_id": "2",
+              "time": "12:35",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T12:35:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-05T10:20:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 06.08",
+          "date_long": "poniedziałek 06 sierpnia",
+          "date_time": "2018-08-06",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 06  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439442",
+              "version_id": "2",
+              "time": "10:35",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T10:35:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439447",
+              "version_id": "2",
+              "time": "14:00",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T14:00:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-06T10:35:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 07.08",
+          "date_long": "wtorek 07 sierpnia",
+          "date_time": "2018-08-07",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 07  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439457",
+              "version_id": "2",
+              "time": "10:35",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T10:35:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439462",
+              "version_id": "2",
+              "time": "14:00",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T14:00:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-07T10:35:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 08.08",
+          "date_long": "środa 08 sierpnia",
+          "date_time": "2018-08-08",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 08  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439472",
+              "version_id": "2",
+              "time": "10:35",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T10:35:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439477",
+              "version_id": "2",
+              "time": "14:00",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T14:00:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-08T10:35:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 09.08",
+          "date_long": "czwartek 09 sierpnia",
+          "date_time": "2018-08-09",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 09  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439487",
+              "version_id": "2",
+              "time": "10:35",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T10:35:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439492",
+              "version_id": "2",
+              "time": "14:00",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T14:00:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-09T10:35:00",
+          "cdate": "2018-08-04T22:22:36.7632786+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "jak-zostac-czarodziejem",
+      "title": "Jak zostać czarodziejem",
+      "id": "6984",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/MkI4RTc3/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/jak-zostac-czarodziejem-pl_e1d1f46f48.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "Zwariowana animacja scenarzystów „Epoki Lodowcowej 2”, to pełna magii opowieść o tym, że klucz do szczęścia zawsze leży w naszych rękach.",
+      "info_release": "03.08.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "97 minut",
+      "info_age": "b.o.",
+      "pegi_class": "",
+      "info_director": "Andres Couturier",
+      "info_cast": null,
+      "availablecopy": "REZERWUJ / KUP BILET",
+      "videolink": "/filmy/jak-zostac-czarodziejem/trailer",
+      "filmlink": "/filmy/jak-zostac-czarodziejem",
+      "timeslink": "/filmy/jak-zostac-czarodziejem/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": false,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Animowany",
+            "url": "/gatunki/animowany",
+            "highlighted": false
+          },
+          {
+            "name": "Familijny",
+            "url": "/gatunki/familijny",
+            "highlighted": true
+          },
+          {
+            "name": "Przygodowy",
+            "url": "/gatunki/przygodowy",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [
+          {
+            "name": "Dzieci",
+            "url": null,
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "11",
+      "rank_value": "5.09",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "PREMIERA",
+            "class": "promo-label--promo",
+            "short_name": "PREMIERA"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-08-03T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>206</span> osób chce zobaczyć",
+      "showwantsee": false,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6984",
+      "always_in_QB": false,
+      "priority_value": 100
+    },    
+    {
+      "original_s_count": 5,
+      "sortable": 2,
+      "showings": [
+        {
+          "date_prefix": "Jutro",
+          "date_day": "niedziela",
+          "date_short": "N 05.08",
+          "date_long": "niedziela 05 sierpnia",
+          "date_time": "2018-08-05",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 05  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439430",
+              "version_id": "2",
+              "time": "11:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T11:05:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-05T11:05:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 06.08",
+          "date_long": "poniedziałek 06 sierpnia",
+          "date_time": "2018-08-06",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 06  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439443",
+              "version_id": "2",
+              "time": "11:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T11:05:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-06T11:05:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 07.08",
+          "date_long": "wtorek 07 sierpnia",
+          "date_time": "2018-08-07",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 07  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439458",
+              "version_id": "2",
+              "time": "11:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T11:05:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-07T11:05:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 08.08",
+          "date_long": "środa 08 sierpnia",
+          "date_time": "2018-08-08",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 08  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439473",
+              "version_id": "2",
+              "time": "11:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T11:05:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-08T11:05:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 09.08",
+          "date_long": "czwartek 09 sierpnia",
+          "date_time": "2018-08-09",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 09  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439488",
+              "version_id": "2",
+              "time": "11:05",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Dubbing",
+                  "fullname": "2D, Dubbing"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T11:05:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-09T11:05:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "ksiaze-czarus",
+      "title": "Książę Czaruś",
+      "id": "6985",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/QzgxQTYy/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/ksiaze-czarus-pl_088caddff0.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "Dawno, dawno temu niegodziwa Królowa rzuciła urok na małego Księcia Czarusia. Jej zaklęcie sprawia, że każda napotkana przez młodzieńca dziewczyna z miejsca zakochuje się w nim i chce być jego żoną.",
+      "info_release": "27.07.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "85 minut",
+      "info_age": "b.o.",
+      "pegi_class": "",
+      "info_director": "Ross Venokur",
+      "info_cast": null,
+      "availablecopy": "REZERWUJ / KUP BILET",
+      "videolink": "/filmy/ksiaze-czarus/trailer",
+      "filmlink": "/filmy/ksiaze-czarus",
+      "timeslink": "/filmy/ksiaze-czarus/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": false,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Animowany",
+            "url": "/gatunki/animowany",
+            "highlighted": false
+          },
+          {
+            "name": "Familijny",
+            "url": "/gatunki/familijny",
+            "highlighted": true
+          },
+          {
+            "name": "Przygodowy",
+            "url": "/gatunki/przygodowy",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [
+          {
+            "name": "Dzieci",
+            "url": null,
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "80",
+      "rank_value": "6.69",
+      "promo_labels": {
+        "names": [],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-07-27T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>723</span> osoby chcą zobaczyć",
+      "showwantsee": false,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6985",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 5,
+      "sortable": 3,
+      "showings": [
+        {
+          "date_prefix": "Jutro",
+          "date_day": "niedziela",
+          "date_short": "N 05.08",
+          "date_long": "niedziela 05 sierpnia",
+          "date_time": "2018-08-05",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 05  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439432",
+              "version_id": "1",
+              "time": "12:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T12:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439435",
+              "version_id": "1",
+              "time": "15:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T15:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439438",
+              "version_id": "1",
+              "time": "17:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T17:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439440",
+              "version_id": "1",
+              "time": "20:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T20:20:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-05T12:50:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 06.08",
+          "date_long": "poniedziałek 06 sierpnia",
+          "date_time": "2018-08-06",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 06  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439445",
+              "version_id": "1",
+              "time": "12:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T12:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439448",
+              "version_id": "1",
+              "time": "15:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T15:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439451",
+              "version_id": "1",
+              "time": "17:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T17:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439454",
+              "version_id": "1",
+              "time": "20:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T20:20:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-06T12:50:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 07.08",
+          "date_long": "wtorek 07 sierpnia",
+          "date_time": "2018-08-07",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 07  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439460",
+              "version_id": "1",
+              "time": "12:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T12:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439463",
+              "version_id": "1",
+              "time": "15:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T15:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439466",
+              "version_id": "1",
+              "time": "17:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T17:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439469",
+              "version_id": "1",
+              "time": "20:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T20:20:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-07T12:50:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 08.08",
+          "date_long": "środa 08 sierpnia",
+          "date_time": "2018-08-08",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 08  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439475",
+              "version_id": "1",
+              "time": "12:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T12:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439478",
+              "version_id": "1",
+              "time": "15:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T15:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439481",
+              "version_id": "1",
+              "time": "17:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T17:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439484",
+              "version_id": "1",
+              "time": "20:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T20:20:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-08T12:50:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 09.08",
+          "date_long": "czwartek 09 sierpnia",
+          "date_time": "2018-08-09",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 09  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439490",
+              "version_id": "1",
+              "time": "12:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T12:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439493",
+              "version_id": "1",
+              "time": "15:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T15:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439496",
+              "version_id": "1",
+              "time": "17:50",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T17:50:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3439499",
+              "version_id": "1",
+              "time": "20:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T20:20:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-09T12:50:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "mamma-mia-here-we-go-again",
+      "title": "Mamma Mia! Here We Go Again!",
+      "id": "6845",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/MTNBNEY1/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/mamma-mia-here-we-go-again-pl_a830e1278a.jpg",
+      "cert_image": "/-/media/images/certificates/12.png",
+      "cert_desc": null,
+      "synopsis_short": "Przygotujcie się, by znowu tańczyć, śpiewać, śmiać się i kochać! 10 lat po premierze komedii „Mamma Mia!”, która przyciągnęła do kin miliony widzów i zarobiła ponad 600 milionów dolarów, zapraszamy ponownie na magiczną grecką wyspę Kalokairi w zupełnie nowej odsłonie filmowego hitu opartego na bestsellerowym musicalu z piosenkami ABBY.",
+      "info_release": "27.07.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "116 minut",
+      "info_age": "12",
+      "pegi_class": "",
+      "info_director": "Ol Parker",
+      "info_cast": null,
+      "availablecopy": "REZERWUJ / KUP BILET",
+      "videolink": "/filmy/mamma-mia-here-we-go-again/trailer",
+      "filmlink": "/filmy/mamma-mia-here-we-go-again",
+      "timeslink": "/filmy/mamma-mia-here-we-go-again/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": false,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Familijny",
+            "url": "/gatunki/familijny",
+            "highlighted": true
+          },
+          {
+            "name": "Komedia",
+            "url": "/gatunki/komedia",
+            "highlighted": false
+          },
+          {
+            "name": "Musical",
+            "url": "/gatunki/musical",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "190",
+      "rank_value": "8.18",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "SUPERHIT",
+            "class": "promo-label--hit",
+            "short_name": "SUPERHIT"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-07-27T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>6863</span> osoby chcą zobaczyć",
+      "showwantsee": false,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6845",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 8,
+      "sortable": 12,
+      "showings": [
+        {
+          "date_prefix": "Jutro",
+          "date_day": "niedziela",
+          "date_short": "N 05.08",
+          "date_long": "niedziela 05 sierpnia",
+          "date_time": "2018-08-05",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 05  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420459",
+              "version_id": "1",
+              "time": "19:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T19:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-05T19:30:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "piątek",
+          "date_short": "Pt 10.08",
+          "date_long": "piątek 10 sierpnia",
+          "date_time": "2018-08-10",
+          "date_formatted": "<abbr title='piątek'>Pt</abbr> 10  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420460",
+              "version_id": "1",
+              "time": "14:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-10T14:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420461",
+              "version_id": "1",
+              "time": "17:25",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-10T17:25:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420462",
+              "version_id": "1",
+              "time": "20:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-10T20:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-10T14:20:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "sobota",
+          "date_short": "So 11.08",
+          "date_long": "sobota 11 sierpnia",
+          "date_time": "2018-08-11",
+          "date_formatted": "<abbr title='sobota'>So</abbr> 11  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420463",
+              "version_id": "1",
+              "time": "14:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-11T14:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420464",
+              "version_id": "1",
+              "time": "17:25",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-11T17:25:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420465",
+              "version_id": "1",
+              "time": "20:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-11T20:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-11T14:20:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "niedziela",
+          "date_short": "N 12.08",
+          "date_long": "niedziela 12 sierpnia",
+          "date_time": "2018-08-12",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 12  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420466",
+              "version_id": "1",
+              "time": "14:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-12T14:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420467",
+              "version_id": "1",
+              "time": "17:25",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-12T17:25:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420468",
+              "version_id": "1",
+              "time": "20:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-12T20:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-12T14:20:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 13.08",
+          "date_long": "poniedziałek 13 sierpnia",
+          "date_time": "2018-08-13",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 13  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420469",
+              "version_id": "1",
+              "time": "14:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-13T14:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420470",
+              "version_id": "1",
+              "time": "17:25",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-13T17:25:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420471",
+              "version_id": "1",
+              "time": "20:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-13T20:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-13T14:20:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 14.08",
+          "date_long": "wtorek 14 sierpnia",
+          "date_time": "2018-08-14",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 14  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420472",
+              "version_id": "1",
+              "time": "14:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-14T14:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420473",
+              "version_id": "1",
+              "time": "17:25",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-14T17:25:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420474",
+              "version_id": "1",
+              "time": "20:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-14T20:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-14T14:20:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 15.08",
+          "date_long": "środa 15 sierpnia",
+          "date_time": "2018-08-15",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 15  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420475",
+              "version_id": "1",
+              "time": "14:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-15T14:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420476",
+              "version_id": "1",
+              "time": "17:25",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-15T17:25:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420477",
+              "version_id": "1",
+              "time": "20:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-15T20:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-15T14:20:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 16.08",
+          "date_long": "czwartek 16 sierpnia",
+          "date_time": "2018-08-16",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 16  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3420478",
+              "version_id": "1",
+              "time": "14:20",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-16T14:20:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420479",
+              "version_id": "1",
+              "time": "17:25",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-16T17:25:00",
+              "kids_club": false,
+              "first_class": false
+            },
+            {
+              "session_id": "3420480",
+              "version_id": "1",
+              "time": "20:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-16T20:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-16T14:20:00",
+          "cdate": "2018-08-04T22:22:36.7642786+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "mission-impossible-6",
+      "title": "Mission: Impossible - Fallout",
+      "id": "6893",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/MDgxOTU3/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/mission-impossible-fallout-pl_082e8ac04c.jpg",
+      "cert_image": "/-/media/images/certificates/15.png",
+      "cert_desc": null,
+      "synopsis_short": "Ethana Hunta nie trzeba nikomu przedstawiać. Po pierwsze, znają go wszyscy. Po drugie, sam przedstawia się najlepiej. Kojarzymy go z supersprawnością, sprytem, szelmowskim uśmiechem i twarzą Toma Cruise’a.",
+      "info_release": "10.08.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "147 minut",
+      "info_age": "15",
+      "pegi_class": "",
+      "info_director": "Christopher McQuarrie",
+      "info_cast": null,
+      "availablecopy": "See at Vue from 10.08.2018",
+      "videolink": "/filmy/mission-impossible-fallout/trailer",
+      "filmlink": "/filmy/mission-impossible-fallout",
+      "timeslink": "/filmy/mission-impossible-fallout/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": true,
+      "comming_soon": true,
+      "announcement": true,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Sensacyjny",
+            "url": "/gatunki/sensacyjny",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "0",
+      "rank_value": "0",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "SUPERHIT",
+            "class": "promo-label--hit",
+            "short_name": "SUPERHIT"
+          },
+          {
+            "name": "WKRÓTCE",
+            "class": "promo-label--promo",
+            "short_name": "WKRÓTCE"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-08-10T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>1451</span> osób chce zobaczyć",
+      "showwantsee": true,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6893",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 5,
+      "sortable": 6,
+      "showings": [
+        {
+          "date_prefix": "Jutro",
+          "date_day": "niedziela",
+          "date_short": "N 05.08",
+          "date_long": "niedziela 05 sierpnia",
+          "date_time": "2018-08-05",
+          "date_formatted": "<abbr title='niedziela'>Nd.</abbr> 05  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439437",
+              "version_id": "1",
+              "time": "17:30",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-05T17:30:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-05T17:30:00",
+          "cdate": "2018-08-04T22:22:36.7652777+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 06.08",
+          "date_long": "poniedziałek 06 sierpnia",
+          "date_time": "2018-08-06",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 06  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439453",
+              "version_id": "1",
+              "time": "18:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T18:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-06T18:55:00",
+          "cdate": "2018-08-04T22:22:36.7652777+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 07.08",
+          "date_long": "wtorek 07 sierpnia",
+          "date_time": "2018-08-07",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 07  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439468",
+              "version_id": "1",
+              "time": "18:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T18:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-07T18:55:00",
+          "cdate": "2018-08-04T22:22:36.7652777+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 08.08",
+          "date_long": "środa 08 sierpnia",
+          "date_time": "2018-08-08",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 08  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439483",
+              "version_id": "1",
+              "time": "18:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T18:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-08T18:55:00",
+          "cdate": "2018-08-04T22:22:36.7652777+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 09.08",
+          "date_long": "czwartek 09 sierpnia",
+          "date_time": "2018-08-09",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 09  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439498",
+              "version_id": "1",
+              "time": "18:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T18:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-09T18:55:00",
+          "cdate": "2018-08-04T22:22:36.7652777+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "odnajde-cie",
+      "title": "Odnajdę cię",
+      "id": "7173",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/NEY4N0U5/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/odnajdecie-pl_c3eec5bb91.jpg",
+      "cert_image": "/-/media/images/certificates/15.png",
+      "cert_desc": null,
+      "synopsis_short": "Historia policjantki, która uwikłana w pogoń za mordercą, sama staje się celem jego wyrachowanych ataków.",
+      "info_release": "03.08.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "84 minuty",
+      "info_age": "15",
+      "pegi_class": "",
+      "info_director": "Beata Dzianowicz",
+      "info_cast": null,
+      "availablecopy": "REZERWUJ / KUP BILET",
+      "videolink": "/filmy/odnajde-cie/trailer",
+      "filmlink": "/filmy/odnajde-cie",
+      "timeslink": "/filmy/odnajde-cie/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": false,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Thriller",
+            "url": "/gatunki/thriller",
+            "highlighted": false
+          },
+          {
+            "name": "Sensacyjny",
+            "url": "/gatunki/sensacyjny",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "11",
+      "rank_value": "7.64",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "PREMIERA",
+            "class": "promo-label--promo",
+            "short_name": "PREMIERA"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-08-03T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>186</span> osób chce zobaczyć",
+      "showwantsee": false,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/7173",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 0,
+      "sortable": 14,
+      "showings": [],
+      "show_showings": false,
+      "film_page_name": "patryk",
+      "title": "Patryk",
+      "id": "7101",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/N0Q0NTc2/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/patrick-pl_09052e38c4.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "Wzruszająca komedia o tym, że niektóre kłopoty mogą się okazać zbawieniem, szczególnie jeśli mają cztery łapy, ogon i wielki apetyt… na miłość.",
+      "info_release": "10.08.2018",
+      "info_runningtime_visible": true,
+      "info_runningtime": "95 minut",
+      "info_age": "7",
+      "pegi_class": "",
+      "info_director": "Mandie Fletcher",
+      "info_cast": null,
+      "availablecopy": "See at Vue from 10.08.2018",
+      "videolink": "/filmy/patryk/trailer",
+      "filmlink": "/filmy/patryk",
+      "timeslink": "/filmy/patryk/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": true,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Familijny",
+            "url": "/gatunki/familijny",
+            "highlighted": true
+          },
+          {
+            "name": "Przygodowy",
+            "url": "/gatunki/przygodowy",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "0",
+      "rank_value": "0",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "WKRÓTCE",
+            "class": "promo-label--promo",
+            "short_name": "WKRÓTCE"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-08-10T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>301</span> osób chce zobaczyć",
+      "showwantsee": true,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/7101",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 0,
+      "sortable": 57,
+      "showings": [],
+      "show_showings": false,
+      "film_page_name": "pierwszy-czlowiek",
+      "title": "Pierwszy człowiek",
+      "id": "7168",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/MkYwNzY4/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/pierwszy-czlowiek-p_a3c06cdcf4.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "Na fali wspólnego sukcesu sześciokrotnie nagrodzonego Oscarem® obrazu „La La Land” Damien Chazelle i Ryan Gosling ponownie łączą siły w historycznej opowieści o misji NASA, dzięki której na Księżycu wylądował człowiek. Film skupia się na życiu Neila Armstronga w latach 1961-1969.",
+      "info_release": "19.10.2018",
+      "info_runningtime_visible": false,
+      "info_runningtime": "",
+      "info_age": "",
+      "pegi_class": "",
+      "info_director": "Damien Chazelle",
+      "info_cast": null,
+      "availablecopy": "See at Vue from 19.10.2018",
+      "videolink": "/filmy/pierwszy-czlowiek/trailer",
+      "filmlink": "/filmy/pierwszy-czlowiek",
+      "timeslink": "/filmy/pierwszy-czlowiek/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": true,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Dramat",
+            "url": "/gatunki/dramat",
+            "highlighted": false
+          },
+          {
+            "name": "Biograficzny",
+            "url": "/gatunki/biograficzny",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "0",
+      "rank_value": "0",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "WKRÓTCE",
+            "class": "promo-label--promo",
+            "short_name": "WKRÓTCE"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-10-19T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>18</span> osób chce zobaczyć",
+      "showwantsee": true,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/7168",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 0,
+      "sortable": 66,
+      "showings": [],
+      "show_showings": false,
+      "film_page_name": "planeta-singli-2",
+      "title": "Planeta Singli 2",
+      "id": "7179",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/RDUwQTJB/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/planetasingli-p_e709333c82.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "Związek Ani (Agnieszka Więdłocha) i Tomka (Maciej Stuhr) przeżywa poważny kryzys. On, showman-celebryta wcale nie ma zamiaru się ustatkować. Ona z kolei chce poważnego związku. Tymczasem na horyzoncie pojawia się Aleksander – zauroczony Anią milioner, właściciel aplikacji Planeta Singli, przekonany, że nikt inny nie pasuje do niego bardziej niż romantyczna nauczycielka muzyki.",
+      "info_release": "09.11.2018",
+      "info_runningtime_visible": false,
+      "info_runningtime": "",
+      "info_age": "",
+      "pegi_class": "",
+      "info_director": "Sam Akina",
+      "info_cast": null,
+      "availablecopy": "See at Vue from 09.11.2018",
+      "videolink": "/filmy/planeta-singli-2/trailer",
+      "filmlink": "/filmy/planeta-singli-2",
+      "timeslink": "/filmy/planeta-singli-2/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": true,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Komedia romantyczna",
+            "url": "/gatunki/komedia-romantyczna",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "0",
+      "rank_value": "0",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "WKRÓTCE",
+            "class": "promo-label--promo",
+            "short_name": "WKRÓTCE"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-11-09T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>14</span> osób chce zobaczyć",
+      "showwantsee": true,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/7179",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 0,
+      "sortable": 45,
+      "showings": [],
+      "show_showings": false,
+      "film_page_name": "predator",
+      "title": "Predator",
+      "id": "6638",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/NURBQzYx/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/mv5bnze1mzqwmjaznf5bml5banbnxkftztgwmtazmdqwode-v1-uy268-cr43-0-182-268-al_00609ed3dd.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "Reżyser Shane Black („Iron Man 3”) przedstawia widowiskowy film science  fiction, który rewolucjonizuje serię o Predatorze. Tym razem  spektakularne polowanie przenosi się z odległych zakątków kosmosu wprost  na ulice niewielkiego miasteczka na amerykańskiej prowincji.",
+      "info_release": "21.09.2018",
+      "info_runningtime_visible": false,
+      "info_runningtime": "",
+      "info_age": "",
+      "pegi_class": "",
+      "info_director": "Shane Black",
+      "info_cast": null,
+      "availablecopy": "See at Vue from 21.09.2018",
+      "videolink": "/filmy/predator/trailer",
+      "filmlink": "/filmy/predator",
+      "timeslink": "/filmy/predator/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": true,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Akcja",
+            "url": "/gatunki/akcja",
+            "highlighted": false
+          },
+          {
+            "name": "Science-Fiction",
+            "url": "/gatunki/science-fiction",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "0",
+      "rank_value": "0",
+      "promo_labels": {
+        "names": [
+          {
+            "name": "WKRÓTCE",
+            "class": "promo-label--promo",
+            "short_name": "WKRÓTCE"
+          }
+        ],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-09-21T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>395</span> osób chce zobaczyć",
+      "showwantsee": true,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6638",
+      "always_in_QB": false,
+      "priority_value": 100
+    },
+    {
+      "original_s_count": 4,
+      "sortable": 1,
+      "showings": [
+        {
+          "date_prefix": "",
+          "date_day": "poniedziałek",
+          "date_short": "Pn 06.08",
+          "date_long": "poniedziałek 06 sierpnia",
+          "date_time": "2018-08-06",
+          "date_formatted": "<abbr title='poniedziałek'>Pn</abbr> 06  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439456",
+              "version_id": "1",
+              "time": "20:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-06T20:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-06T20:55:00",
+          "cdate": "2018-08-04T22:22:36.7662765+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "wtorek",
+          "date_short": "Wt 07.08",
+          "date_long": "wtorek 07 sierpnia",
+          "date_time": "2018-08-07",
+          "date_formatted": "<abbr title='wtorek'>Wt</abbr> 07  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439471",
+              "version_id": "1",
+              "time": "20:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-07T20:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-07T20:55:00",
+          "cdate": "2018-08-04T22:22:36.7662765+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "środa",
+          "date_short": "Śr 08.08",
+          "date_long": "środa 08 sierpnia",
+          "date_time": "2018-08-08",
+          "date_formatted": "<abbr title='środa'>Śr</abbr> 08  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439486",
+              "version_id": "1",
+              "time": "20:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-08T20:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-08T20:55:00",
+          "cdate": "2018-08-04T22:22:36.7662765+02:00",
+          "clone": true
+        },
+        {
+          "date_prefix": "",
+          "date_day": "czwartek",
+          "date_short": "Cz 09.08",
+          "date_long": "czwartek 09 sierpnia",
+          "date_time": "2018-08-09",
+          "date_formatted": "<abbr title='czwartek'>Cz.</abbr> 09  <abbr title='sierpień'>sierpień</abbr>",
+          "times": [
+            {
+              "session_id": "3439501",
+              "version_id": "1",
+              "time": "20:55",
+              "screen_type": "2D",
+              "screen_number": null,
+              "lang": null,
+              "tags": [
+                {
+                  "name": " Napisy",
+                  "fullname": "2D, Napisy"
+                }
+              ],
+              "event_info": null,
+              "hidden": false,
+              "date": "2018-08-09T20:55:00",
+              "kids_club": false,
+              "first_class": false
+            }
+          ],
+          "date": "2018-08-09T20:55:00",
+          "cdate": "2018-08-04T22:22:36.7662765+02:00",
+          "clone": true
+        }
+      ],
+      "show_showings": true,
+      "film_page_name": "sicario-2-soldado",
+      "title": "Sicario 2: Soldado",
+      "id": "6890",
+      "image_hero": "",
+      "image_poster": "https://media.multikino.pl/thumbnails/50/rc/NTU2NkFB/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/sicario-2-soldado-pl_1b6c8315ef.jpg",
+      "cert_image": "",
+      "cert_desc": null,
+      "synopsis_short": "Sequel „Sicario” jednego z najlepszych i najbardziej wstrząsających thrillerów roku 2016. Tym razem fabuła skupi się na najbardziej tajemniczej postaci opowieści, a na pierwszym planie błyszczeć będzie niezastąpiony Benicio del Toro.",
+      "info_release": "20.07.2018",
+      "info_runningtime_visible": false,
+      "info_runningtime": "",
+      "info_age": "",
+      "pegi_class": "",
+      "info_director": "Stefano Sollima",
+      "info_cast": null,
+      "availablecopy": "REZERWUJ / KUP BILET",
+      "videolink": "/filmy/sicario-2-soldado/trailer",
+      "filmlink": "/filmy/sicario-2-soldado",
+      "timeslink": "/filmy/sicario-2-soldado/times",
+      "video": "",
+      "hidden": false,
+      "coming_soon": false,
+      "comming_soon": false,
+      "announcement": false,
+      "virtual_reality": false,
+      "genres": {
+        "names": [
+          {
+            "name": "Akcja",
+            "url": "/gatunki/akcja",
+            "highlighted": false
+          },
+          {
+            "name": "Dramat",
+            "url": "/gatunki/dramat",
+            "highlighted": false
+          },
+          {
+            "name": "Kryminał",
+            "url": "/gatunki/kryminal",
+            "highlighted": false
+          }
+        ],
+        "active": true
+      },
+      "tags": {
+        "names": [],
+        "active": true
+      },
+      "categories": {
+        "names": [],
+        "active": true
+      },
+      "showing_type": {
+        "name": "Filmy",
+        "active": true
+      },
+      "rank_votes": "72",
+      "rank_value": "7.99",
+      "promo_labels": {
+        "names": [],
+        "position": "",
+        "isborder": false
+      },
+      "ReleaseDate": "2018-07-20T00:00:00Z",
+      "type": "Film Details",
+      "wantsee": "<span>580</span> osób chce zobaczyć",
+      "showwantsee": false,
+      "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/6890",
+      "always_in_QB": false,
+      "priority_value": 100
+    }
+  ],
+  "cdate": "2018-08-04_22:24:24.5856",
+  "SiteRootPath": "/sitecore/content/Vue",
+  "Site": "website",
+  "Lang": "en"
+}

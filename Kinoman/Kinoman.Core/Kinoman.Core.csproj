@@ -55,6 +55,7 @@
     <Compile Include="CinemaVenue\Venue.cs" />
     <Compile Include="CinemaVenue\Enums\Vr.cs" />
     <Compile Include="CinemaVenue\Converters\VrConverter.cs" />
+    <Compile Include="ExecutionProcedureFileSource.cs" />
     <Compile Include="FilmDataDownloaderFileSource.cs" />
     <Compile Include="FilmDataDownloaderWebSource.cs" />
     <Compile Include="FilmData\Other_Properties\Categories.cs" />

@@ -97,6 +97,7 @@
     <Compile Include="CinemaVenue\Interfaces\IJsonDataSource.cs" />
     <Compile Include="FilmData\Interfaces\IFilmDataSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResultDisplay.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

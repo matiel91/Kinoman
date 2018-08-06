@@ -26,7 +26,7 @@ namespace Kinoman.Core
 
                     //if (cinema.Search.Equals(location, StringComparison.OrdinalIgnoreCase))
                     if(cinema.Search.Trim().Equals(location, StringComparison.OrdinalIgnoreCase))
-                    {
+                    {                       
                         return int.Parse(cinema.Id);
                     }
                 }

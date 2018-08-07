@@ -23,7 +23,7 @@ namespace Kinoman.Tests
         {
             //method should return Cinema object
             var cut = new ExecutionProcedureFileSource();
-            Assert.IsInstanceOf(typeof(Venue), cut.Execute());
+            Assert.IsInstanceOf(typeof(string), cut.Execute());
         }
 
     }

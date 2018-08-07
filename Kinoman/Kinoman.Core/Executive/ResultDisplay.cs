@@ -8,16 +8,16 @@ namespace Kinoman.Core
 {
     public class ResultDisplay
     {
-        private readonly Venue venue;
+        private readonly Cinema venue;
 
-        public ResultDisplay(Venue venue)
+        public ResultDisplay(Cinema venue)
         {
             this.venue = venue;
         }
 
         public string GenerateResult()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }

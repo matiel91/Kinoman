@@ -2,6 +2,6 @@
 {
     public interface IExecute
     {
-        Cinema Execute();
+        string Execute();
     }
 }

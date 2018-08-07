@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CinemaIdDownloader.cs" />
-    <Compile Include="CinemaIdJSONFileSource.cs" />
-    <Compile Include="CinemaIdJSONWebSource.cs" />
+    <Compile Include="Executive\CinemaIdDownloader.cs" />
+    <Compile Include="Executive\FileSource\CinemaIdJSONFileSource.cs" />
+    <Compile Include="Executive\Interfaces\IExecute.cs" />
+    <Compile Include="Executive\WebSource\CinemaIdJSONWebSource.cs" />
     <Compile Include="CinemaVenue\Cinema.cs" />
     <Compile Include="CinemaVenue\CinemaLocation.cs" />
     <Compile Include="CinemaVenue\Converters\Converter.cs" />
@@ -55,9 +56,9 @@
     <Compile Include="CinemaVenue\Venue.cs" />
     <Compile Include="CinemaVenue\Enums\Vr.cs" />
     <Compile Include="CinemaVenue\Converters\VrConverter.cs" />
-    <Compile Include="ExecutionProcedureFileSource.cs" />
-    <Compile Include="FilmDataDownloaderFileSource.cs" />
-    <Compile Include="FilmDataDownloaderWebSource.cs" />
+    <Compile Include="Executive\FileSource\ExecutionProcedureFileSource.cs" />
+    <Compile Include="Executive\FileSource\FilmDataDownloaderFileSource.cs" />
+    <Compile Include="Executive\WebSource\FilmDataDownloaderWebSource.cs" />
     <Compile Include="FilmData\Other_Properties\Categories.cs" />
     <Compile Include="FilmData\Other_Properties\CategoriesName.cs" />
     <Compile Include="FilmData\Enums\DateDay.cs" />
@@ -97,7 +98,7 @@
     <Compile Include="CinemaVenue\Interfaces\IJsonDataSource.cs" />
     <Compile Include="FilmData\Interfaces\IFilmDataSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ResultDisplay.cs" />
+    <Compile Include="Executive\ResultDisplay.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

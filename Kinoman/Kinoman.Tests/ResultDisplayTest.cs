@@ -14,9 +14,9 @@ namespace Kinoman.Tests
         [TestCase]
         public void IsDispalyProprlyForToday()
         {
-            
-            var executionProcedureFileSource = new ExecutionProcedureFileSource();
-            var cut = new ResultDisplay(executionProcedureFileSource.Execute());
+            FilmDataDownloaderFileSource filmDataDownloaderFileSource = new FilmDataDownloaderFileSource();
+            var cinemaData = filmDataDownloaderFileSource.Get(34);
+            var cut = new ResultDisplay(cinemaData);
             string result = cut.GenerateResult();
 
             string expectedResult = "Niedziela 05 Sierpnia\n" +

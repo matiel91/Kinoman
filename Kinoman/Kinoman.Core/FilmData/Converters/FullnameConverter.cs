@@ -35,6 +35,7 @@ namespace Kinoman.Core
                     return Fullname.The3DDubbing;
                 case "3D, Napisy":
                     return Fullname.The3DNapisy;
+                default: return Fullname.NA;
             }
             throw new Exception("Cannot unmarshal type Fullname");
         }

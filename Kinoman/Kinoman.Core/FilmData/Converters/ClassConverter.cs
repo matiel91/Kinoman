@@ -23,6 +23,7 @@ namespace Kinoman.Core
                     return Class.PromoLabelHit;
                 case "promo-label--promo":
                     return Class.PromoLabelPromo;
+                default: return Class.NA;
             }
             throw new Exception("Cannot unmarshal type Class");
         }

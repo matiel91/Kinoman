@@ -23,6 +23,7 @@ namespace Kinoman.Core
                     return Position.Empty;
                 case "promo-label-container--down-right":
                     return Position.PromoLabelContainerDownRight;
+                default: return Position.Empty;
             }
             throw new Exception("Cannot unmarshal type Position");
         }

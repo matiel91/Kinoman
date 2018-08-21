@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum Fullname { The2DDubbing, The2DNapisy, The2DPl, The2DWersjaOryginalna, The360Dubbing, The360WersjaOryginalna, The3DDubbing, The3DNapisy };
+    public enum Fullname { The2DDubbing, The2DNapisy, The2DPl, The2DWersjaOryginalna, The360Dubbing, The360WersjaOryginalna, The3DDubbing, The3DNapisy, NA };
 }
 

@@ -23,6 +23,7 @@ namespace Kinoman.Core
                     return ScreenType.The2D;
                 case "3D":
                     return ScreenType.The3D;
+                default: return ScreenType.The2D;
             }
             throw new Exception("Cannot unmarshal type ScreenType");
         }

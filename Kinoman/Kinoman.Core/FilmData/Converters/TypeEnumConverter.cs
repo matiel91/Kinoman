@@ -27,6 +27,8 @@ namespace Kinoman.Core
                     return TypeEnum.StandardEvent;
                 case "Virtual Reality Event":
                     return TypeEnum.VirtualRealityEvent;
+                default:
+                    return TypeEnum.Others;
             }
             throw new Exception("Cannot unmarshal type TypeEnum");
         }

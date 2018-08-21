@@ -31,6 +31,7 @@ namespace Kinoman.Core
                     return TagName.The360Org;
                 case "360°, dubbing":
                     return TagName.The360Dubbing;
+                default: return TagName.NA;
             }
             throw new Exception("Cannot unmarshal type TagName");
         }

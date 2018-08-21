@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum Class { PromoLabelHit, PromoLabelPromo };
+    public enum Class { PromoLabelHit, PromoLabelPromo, NA };
 }
 

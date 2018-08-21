@@ -31,6 +31,8 @@ namespace Kinoman.Core
                     return InfoAge.The7;
                 case "b.o.":
                     return InfoAge.BO;
+                default:
+                    return InfoAge.Empty;
             }
             throw new Exception("Cannot unmarshal type InfoAge");
         }

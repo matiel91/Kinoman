@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum CertImage { Empty, MediaImagesCertificates12Png, MediaImagesCertificates15Png };
+    public enum CertImage { Empty, MediaImagesCertificates12Png, MediaImagesCertificates15Png, NA };
 }
 

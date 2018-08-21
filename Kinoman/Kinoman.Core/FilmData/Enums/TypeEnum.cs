@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum TypeEnum { FilmDetails, MarathonEvent, StandardEvent, VirtualRealityEvent };
+    public enum TypeEnum { FilmDetails, MarathonEvent, StandardEvent, VirtualRealityEvent, Others};
 }
 

@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum ShowingTypeName { Filmy, Wydarzenia };
+    public enum ShowingTypeName { Filmy, Wydarzenia, NA };
 }
 

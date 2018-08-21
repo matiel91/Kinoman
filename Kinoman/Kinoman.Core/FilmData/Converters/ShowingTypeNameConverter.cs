@@ -23,6 +23,7 @@ namespace Kinoman.Core
                     return ShowingTypeName.Filmy;
                 case "Wydarzenia":
                     return ShowingTypeName.Wydarzenia;
+                default: return ShowingTypeName.NA;
             }
             throw new Exception("Cannot unmarshal type ShowingTypeName");
         }

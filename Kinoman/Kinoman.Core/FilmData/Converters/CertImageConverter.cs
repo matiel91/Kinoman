@@ -25,6 +25,7 @@ namespace Kinoman.Core
                     return CertImage.MediaImagesCertificates12Png;
                 case "/-/media/images/certificates/15.png":
                     return CertImage.MediaImagesCertificates15Png;
+                default: return CertImage.NA;
             }
             throw new Exception("Cannot unmarshal type CertImage");
         }

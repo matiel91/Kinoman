@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum InfoAge { BO, Empty, The12, The13, The15, The7 };
+    public enum InfoAge { BO, Empty, The12, The13, The15, The7, NA, };
 }
 

@@ -25,6 +25,7 @@ namespace Kinoman.Core
                     return DatePrefix.Dzisiaj;
                 case "Jutro":
                     return DatePrefix.Jutro;
+                default: return DatePrefix.Empty;
             }
             throw new Exception("Cannot unmarshal type DatePrefix");
         }

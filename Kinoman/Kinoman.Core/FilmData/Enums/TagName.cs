@@ -6,6 +6,6 @@
 
 namespace Kinoman.Core
 {
-    public enum TagName { Dubbing, Napisy, Org, Pl, The360Dubbing, The360Org };
+    public enum TagName { Dubbing, Napisy, Org, Pl, The360Dubbing, The360Org, NA };
 }
 

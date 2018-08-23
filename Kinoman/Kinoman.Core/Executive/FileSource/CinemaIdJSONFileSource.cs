@@ -8,9 +8,16 @@ using Newtonsoft.Json;
 
 namespace Kinoman.Core
 
-{
+{   
+    /// <summary>
+    /// Class responible for deserialize JSON with cinema location list. JSON's source is a file.
+    /// </summary>
     public class CinemaIdJSONFileSource : IJsonDataSource
     {
+        /// <summary>
+        /// Method deserialize JSON's from file.
+        /// </summary>
+        /// <returns>Return CinemaLocation type</returns>
         public CinemaLocation GetJson()
         {
             string path2 = new DirectoryInfo(Environment.CurrentDirectory).Parent.Parent.Parent.FullName; // Path to Project Directory

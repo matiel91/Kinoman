@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace Kinoman.Core.Executive.FileSource
 {
+    /// <summary>
+    /// Class responible for showing cinema list. 
+    /// </summary>
     public class ShowCinemaListsFromJSONFile
     {
+        /// <summary>
+        /// Method deserialize JSON with CinemaIdJSONFileSource class. 
+        /// </summary>
+        /// <returns>Return string with cinema list splited by ", "</returns>
         public string Execute()
         {
             CinemaIdJSONFileSource cinemaLocation = new CinemaIdJSONFileSource();
@@ -17,9 +24,10 @@ namespace Kinoman.Core.Executive.FileSource
             {
                 foreach (var cinema in venue.Cinemas)
                 {
-                    cinemaList.Append(cinema.Name + ",\t");
+                    cinemaList.Append(cinema.Search + ",");
                 }
             }
+
 
             return cinemaList.ToString();
         }

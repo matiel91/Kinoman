@@ -4,8 +4,16 @@ using System.Text;
 
 namespace Kinoman.Core
 {
+    /// <summary>
+    /// Class respondible for deserializing JSON with cinemas repertoire data. JSON,s source is file.
+    /// </summary>
     public class FilmDataDownloaderFileSource : IFilmDataSource
     {
+        /// <summary>
+        /// Function takes id of cinema and return Cinema type with repertoir for introduced id
+        /// </summary>
+        /// <param name="cinemaId">Id of cinema. Possible to take with CinemaIdDownloader class</param>
+        /// <returns>Return Cinema type</returns>
         public Cinema Get(int cinemaId)
         {
             string path2 = new DirectoryInfo(Environment.CurrentDirectory).Parent.Parent.Parent.FullName; // Path to Project Directory

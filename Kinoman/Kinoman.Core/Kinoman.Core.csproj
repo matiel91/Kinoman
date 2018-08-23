@@ -46,6 +46,7 @@
     <Compile Include="Executive\CinemaIdDownloader.cs" />
     <Compile Include="Executive\FileSource\ReadCinemaListsFromFile.cs" />
     <Compile Include="Executive\FileSource\ShowCinemaListsFromJSONFile.cs" />
+    <Compile Include="Executive\FileSource\SortedListOfCinemaLocations.cs" />
     <Compile Include="Executive\WebSource\DownloadCinemasListToFile.cs" />
     <Compile Include="Executive\WebSource\ExecutionProcedureWebSource.cs" />
     <Compile Include="Executive\FileSource\CinemaIdJSONFileSource.cs" />

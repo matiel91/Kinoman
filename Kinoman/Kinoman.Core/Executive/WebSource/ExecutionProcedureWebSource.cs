@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Kinoman.Core.Executive.FileSource;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,6 +15,8 @@ namespace Kinoman.Core.Executive
             FilmDataDownloaderWebSource filmDataDownloader = new FilmDataDownloaderWebSource();
             var idCinemaLocation = idJson.GetJson();
             CinemaIdDownloader cinemaIdDownloader = new CinemaIdDownloader(idCinemaLocation);
+            ShowCinemaListsFromJSONFile showCinemaList = new ShowCinemaListsFromJSONFile();
+            Console.WriteLine(showCinemaList.Execute());
             Console.WriteLine("Podaj kino");
             var id = cinemaIdDownloader.GetId(Console.ReadLine());
             var filmData = filmDataDownloader.Get(id);

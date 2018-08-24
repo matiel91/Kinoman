@@ -7,8 +7,16 @@ using System.Threading.Tasks;
 
 namespace Kinoman.Core.Executive
 {
+
+    /// <summary>
+    /// Class responsible for execution functions in proper order
+    /// </summary>
     public class ExecutionProcedureWebSource : IExecute
     {
+        /// <summary>
+        /// Method execute procedure of running program in proper order
+        /// </summary>
+        /// <returns>Return string with a repoertoire</returns>
         public string Execute()
         {
             CinemaIdJSONWebSource idJson = new CinemaIdJSONWebSource();

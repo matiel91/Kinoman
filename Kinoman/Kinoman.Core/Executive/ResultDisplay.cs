@@ -6,15 +6,24 @@ using System.Threading.Tasks;
 
 namespace Kinoman.Core
 {
+    /// <summary>
+    /// Class responsible for proper displaying repertoir
+    /// </summary>
     public class ResultDisplay
     {
         private readonly Cinema cinema;
-
+        /// <summary>
+        /// Constructor take as parameter Cinema type which store data about movies and repertoir
+        /// </summary>
+        /// <param name="cinema"></param>
         public ResultDisplay(Cinema cinema)
         {
             this.cinema = cinema;
         }
-
+        /// <summary>
+        /// Method generate string with repertoir
+        /// </summary>
+        /// <returns>Return string with repertoir</returns>
         public string GenerateResult()
         {
             StringBuilder resultStringBuilder = new StringBuilder();

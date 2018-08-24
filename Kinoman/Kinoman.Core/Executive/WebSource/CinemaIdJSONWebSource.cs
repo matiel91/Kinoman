@@ -7,8 +7,15 @@ using System.Threading.Tasks;
 
 namespace Kinoman.Core
 {
+    /// <summary>
+    /// Class responible for deserialize JSON with cinema location list. JSON's source is a website.
+    /// </summary>
     public class CinemaIdJSONWebSource : IJsonDataSource
     {
+        /// <summary>
+        /// Method deserialize JSON's from website.
+        /// </summary>
+        /// <returns>Return CinemaLocation type</returns>
         public CinemaLocation GetJson()
         {
             HttpClient client = new HttpClient();

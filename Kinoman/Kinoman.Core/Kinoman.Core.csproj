@@ -64,6 +64,7 @@
     <Compile Include="Executive\FileSource\ExecutionProcedureFileSource.cs" />
     <Compile Include="Executive\FileSource\FilmDataDownloaderFileSource.cs" />
     <Compile Include="Executive\WebSource\FilmDataDownloaderWebSource.cs" />
+    <Compile Include="Executive\WebSource\SendEmailWithReportoir.cs" />
     <Compile Include="FilmData\Other_Properties\Categories.cs" />
     <Compile Include="FilmData\Other_Properties\CategoriesName.cs" />
     <Compile Include="FilmData\Enums\DateDay.cs" />

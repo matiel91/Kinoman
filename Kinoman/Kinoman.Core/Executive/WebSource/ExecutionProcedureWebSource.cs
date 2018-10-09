@@ -31,7 +31,6 @@ namespace Kinoman.Core.Executive
             ResultDisplay resultDisplay = new ResultDisplay(filmData);
             return resultDisplay.GenerateResult();
 
-
         }
     }
 }

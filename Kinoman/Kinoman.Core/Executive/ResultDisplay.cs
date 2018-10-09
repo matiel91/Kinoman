@@ -38,7 +38,9 @@ namespace Kinoman.Core
                         {
                             for (int i = j; i < 1; i++)
                             {
-                                resultStringBuilder.AppendLine(item2.DateLong);
+                                string date = item2.DateLong;
+                                var finalDate = date.ElementAt(0).ToString().ToUpper() + date.Substring(1);
+                                resultStringBuilder.AppendLine(finalDate);
                                 j++;
                             }
                             resultStringBuilder.AppendLine(item.Title);

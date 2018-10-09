@@ -1,4 +1,7 @@
 ﻿using Kinoman.Core;
+using Kinoman.Core.Executive;
+using Kinoman.Core.Executive.FileSource;
+using Kinoman.Core.Executive.WebSource;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,16 +14,8 @@ namespace Kinoman
     {
         static void Main(string[] args)
         {
-            var parsedJson = new CinemaIdJSONFileSource();
-            var cut = new CinemaIdDownloader(parsedJson.GetJson());
-
-            foreach (var item in cut.Venue.Venues)
-            {
-                foreach (var item2 in item.Cinemas)
-                {
-                    Console.WriteLine(item2.SearchTerm);
-                }
-            }
+            ExecutionProcedureWebSource execute = new ExecutionProcedureWebSource();
+            Console.WriteLine(execute.Execute());
             Console.ReadLine();
         }
     }
